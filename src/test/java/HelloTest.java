@@ -5,5 +5,6 @@ public class HelloTest {
         System.out.println("how I can merge feature c");
         System.out.println("why is not working");
         //maybe have to put typing
+        //didn't type again
     }
 }
